@@ -10,7 +10,7 @@ want to customize a bit more, add a title for example, you will have to change t
 ![prob-plot](images/probability.png)
 
 ## Rank plot:
-![rank-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/rank.png?raw=true)
+![rank-plot](images/rank.png)
 
 ## Spearman's rho plot:
-![rho-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/rho.png?raw=true)
+![rho-plot](images/rho.png)
