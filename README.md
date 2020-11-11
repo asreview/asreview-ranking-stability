@@ -7,7 +7,7 @@ First create a probability matrix from a .h5 state file. Then use the other func
 want to customize a bit more, add a title for example, you will have to change the functions a bit.
 
 ## Probability plot:
-![prob-plot] (images/probability.png?raw=true)
+![prob-plot](images/probability.png)
 
 ## Rank plot:
 ![rank-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/rank.png?raw=true)
