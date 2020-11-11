@@ -7,10 +7,10 @@ First create a probability matrix from a .h5 state file. Then use the other func
 want to customize a bit more, add a title for example, you will have to change the functions a bit.
 
 ## Probability plot:
-[![prob-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/probability.png?raw=true)](https://github.com/PeterLombaers/asreview-ranking-stability)
+![prob-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/probability.png?raw=true)
 
 ## Rank plot:
-[![rank-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/rank.png?raw=true)](https://github.com/PeterLombaers/asreview-ranking-stability)
+![rank-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/rank.png?raw=true)
 
 ## Spearman's rho plot:
-[![rho-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/rho.png?raw=true)](https://github.com/PeterLombaers/asreview-ranking-stability)
+![rho-plot] (https://github.com/PeterLombaers/asreview-ranking-stability/blob/main/images/rho.png?raw=true)
