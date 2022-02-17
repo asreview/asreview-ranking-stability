@@ -14,3 +14,6 @@ want to customize a bit more, add a title for example, you will have to change t
 
 ## Spearman's rho plot:
 ![rho-plot](images/rho.png)
+
+# License and Contact
+This repository is under an Apache 2.0 license. Contact: @PeterLombaers
