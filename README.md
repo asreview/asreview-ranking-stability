@@ -1,3 +1,5 @@
+# DEPRECATED: No longer supported. Only works with version 0 of ASReview.
+
 # asreview-ranking-stability
 
 This is a repository containing some code to plot and investigate the rank stability of the predictions coming out of
